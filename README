@@ -1,0 +1,3 @@
+Borrowed much of the code from py3k's multiprocessing package.
+
+<http://svn.python.org/view/python/branches/py3k/Modules/_multiprocessing/multiprocessing.c?revision=81032&view=markup>
